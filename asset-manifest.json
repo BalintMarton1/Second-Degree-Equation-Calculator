@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.93da40f6.css",
-    "main.js": "/static/js/main.d9a96bfa.js",
-    "static/js/787.d2c9cd76.chunk.js": "/static/js/787.d2c9cd76.chunk.js",
-    "static/media/background.jpg": "/static/media/background.20d60f43f72fadf6350c.jpg",
-    "index.html": "/index.html",
-    "main.93da40f6.css.map": "/static/css/main.93da40f6.css.map",
-    "main.d9a96bfa.js.map": "/static/js/main.d9a96bfa.js.map",
-    "787.d2c9cd76.chunk.js.map": "/static/js/787.d2c9cd76.chunk.js.map"
+    "main.css": "/Second-Degree-Equation-Calculator/static/css/main.93da40f6.css",
+    "main.js": "/Second-Degree-Equation-Calculator/static/js/main.6657c2b9.js",
+    "static/js/787.d2c9cd76.chunk.js": "/Second-Degree-Equation-Calculator/static/js/787.d2c9cd76.chunk.js",
+    "static/media/background.jpg": "/Second-Degree-Equation-Calculator/static/media/background.20d60f43f72fadf6350c.jpg",
+    "index.html": "/Second-Degree-Equation-Calculator/index.html",
+    "main.93da40f6.css.map": "/Second-Degree-Equation-Calculator/static/css/main.93da40f6.css.map",
+    "main.6657c2b9.js.map": "/Second-Degree-Equation-Calculator/static/js/main.6657c2b9.js.map",
+    "787.d2c9cd76.chunk.js.map": "/Second-Degree-Equation-Calculator/static/js/787.d2c9cd76.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93da40f6.css",
-    "static/js/main.d9a96bfa.js"
+    "static/js/main.6657c2b9.js"
   ]
 }
